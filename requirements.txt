@@ -1,6 +1,9 @@
-streamlit
-tensorflow
-Pillow
+pandas
 numpy
+scikit-learn
+tensorflow
+matplotlib
+jupyter
+streamlit
 streamlit-drawable-canvas
-
+Pillow
